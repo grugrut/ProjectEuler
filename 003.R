@@ -15,5 +15,3 @@ while (1) {
 
 print (target)
 
-    
-
